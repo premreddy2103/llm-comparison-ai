@@ -60,8 +60,16 @@ llm-comparison-ai/
 
 ## 🚀 Running Locally
 
-### 1. Backend (Spring Boot)
-
+### 1. Backend (Spring Boot)  
 ```bash
 cd backend/SpringAiDemo/SpringAiDemo
 ./mvnw spring-boot:run
+
+2. Frontend (React + Vite)
+cd frontend/vite-react-app
+npm install
+npm run dev
+
+============================================================================================================================
+
+
